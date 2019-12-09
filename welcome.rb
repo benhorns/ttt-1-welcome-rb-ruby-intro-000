@@ -1,2 +1,2 @@
 
-puts. "Welcome to Tic Tac Toe!"
+(:puts.).with ("Welcome to Tic Tac Toe!")
